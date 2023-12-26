@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://travaditaher.github.io/Protfolio/
+> https://travaditaher.github.io/Portfolio/
 
 :star: Star me on GitHub — it helps!
 
